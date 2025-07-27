@@ -10,7 +10,7 @@
 
 - 🎯 **Arquitecto de Software** y **Analista Desarrollador** enfocado en soluciones escalables
 - 🔒 Experiencia en proyectos empresariales y **repositorios privados**
-- 📚 Estudiante de Ingeniería en Informática con enfoque en **Arquitectura de Sistemas**
+- 📚 **Ingeniero en Informática** con enfoque en **Arquitectura de Sistemas**
 - 🌍 Apasionado por diseñar e implementar soluciones que generen impacto real
 - 🚀 Especializado en **Análisis de Datos**, **Desarrollo Full-Stack** y **Optimización de Procesos**
 
@@ -192,13 +192,17 @@ Me considero un **Arquitecto de Software** en formación con sólidas bases como
 <h2>📚 / formación académica /</h2>
 
 ### **Educación Superior**
-- **Ingeniero en Informática** - INACAP, Santiago Centro (Egresado 2025)
-- **Técnico de Nivel Superior Analista Programador** - INACAP, Santiago Centro (Egresado 2024)
+- **Ingeniero en Informática** - INACAP, Santiago Centro (Graduado 2025)
+- **Técnico de Nivel Superior Analista Programador** - INACAP, Santiago Centro (Graduado 2024)
 
-### **Especializaciones INACAP (2024)**
-- **Desarrollador Full Stack**
-- **Arquitectura Cloud**
-- **Diseño y Gestión de Base de Datos**
+### **Certificaciones y Especializaciones INACAP (2024)**
+- **Arquitectura Cloud** - Diseño e implementación de soluciones en la nube
+- **Desarrollador Full Stack** - Desarrollo completo de aplicaciones web
+- **Desarrollo de Aplicaciones Básicas** - Fundamentos de programación y desarrollo
+- **Diseño y Gestión de Base de Datos** - Administración y optimización de bases de datos
+- **Diseño Ágil de Sistemas** - Metodologías ágiles y diseño de sistemas
+- **Innovación y Emprendimiento** - Gestión de proyectos innovadores
+- **Soporte Computacional** - Mantenimiento y soporte técnico de sistemas
 
 ### **Formación Continua**
 - **Arquitectura de Software**: Patrones de diseño, microservicios, cloud computing
