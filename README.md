@@ -1,115 +1,226 @@
-<h1 align="center"> HOLA MI NOMBRE ES DIEGO JOAQUIN ALEXANDER <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">¡Hola, soy Diego Joaquín Alexander! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
 
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
-
-<h2> / about me /</h2>
-
-- ⭐ Actualmente en **Desarrollo web** Y **Analisis de datos** 
-- 💀 Mayormente en **repositorios privados**  
-- 👾 Estudiante aprendiendo y explorando nuevas tecnologías  
-
-<h2> / habilidades actuales / </h2>
-
-- <h4>Lenguajes Back-End</h4>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-
-- <h4>Lenguajes Front-End</h4>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
-
-- <h4>Bases de Datos</h4>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="sqlserver" />
-
-- <h4>Frameworks y Bibliotecas</h4>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" />
-  <img src="https://img.shields.io/badge/matplotlib-%23007ACC.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib" />
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-
-- <h4>Herramientas de diseño, visualización y gestión</h4>
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="powerbi" />
-  <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="sap" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+<div align="center">
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Developer Animation" width="250"/>
+</div>
 
 ---
 
-<h2> / professional profile / </h2>
+<h2>👨‍💻 / sobre mí /</h2>
 
-Me considero un profesional con iniciativa y adaptabilidad al ambiente de trabajo. Comprometido con la resolución de problemas y la adquisición de conocimientos técnicos para contribuir de manera significativa en proyectos informáticos y así llevar a cabo los objetivos trazados por la empresa.
-
----
-
-<h2> / skills & experience / </h2>
-
-- Manejo de Office 365, especialmente Excel, Word, PowerPoint y Outlook.  
-- Uso de Visual Studio Code y entornos virtuales para desarrollo en Python.  
-- Conocimiento en herramientas de soporte remoto y gestión como AnyDesk.  
-- Experiencia en sistemas operativos: Windows, Linux y macOS.  
-- Planeación y seguimiento de proyectos multidisciplinarios.  
-- Organización de estrategias financieras, control de presupuesto y presentación de resultados.  
-- Optimización de procesos logísticos mediante análisis y tecnología.  
-- Gestión de inventario y mejora de la cadena de suministro.  
-- Coordinación con equipos técnicos para el desarrollo de soluciones basadas en datos.  
-- Manejo de Python para análisis de datos (pandas, numpy, matplotlib, seaborn).  
-- Automatización de reportes y tareas repetitivas mediante scripts personalizados.  
-- Conocimientos en SQL para consultas, unión de tablas y extracción eficiente de datos desde bases relacionales.  
-- Familiaridad con procesos ETL para transformación y carga de datos estructurados.  
-- Dominio avanzado de Microsoft Excel: tablas dinámicas, funciones avanzadas, segmentación de datos y macros.  
-- Manejo de Power BI y Tableau para la construcción de dashboards interactivos e informes automatizados.  
-- Limpieza, procesamiento y visualización de datos para identificar patrones, outliers y KPIs relevantes.  
-- Generación de reportes analíticos para la toma de decisiones estratégicas.  
-- Conocimientos sólidos en gestión de proyectos: planificación, ejecución, control y cierre de proyectos.
+- 🎯 **Arquitecto de Software** y **Analista Desarrollador** enfocado en soluciones escalables
+- 🔒 Experiencia en proyectos empresariales y **repositorios privados**
+- 📚 Estudiante de Ingeniería en Informática con enfoque en **Arquitectura de Sistemas**
+- 🌍 Apasionado por diseñar e implementar soluciones que generen impacto real
+- 🚀 Especializado en **Análisis de Datos**, **Desarrollo Full-Stack** y **Optimización de Procesos**
 
 ---
 
-<h2> / skill levels / </h2>
+<h2>🏗️ / perfil profesional /</h2>
 
-| Skill                                  | Nivel      |
-|---------------------------------------|------------|
-| Office 365 (Excel, Word, PowerPoint)  | Avanzado   |
-| Desarrollo en Python                   | Avanzado   |
-| Herramientas de soporte remoto (AnyDesk) | Intermedio |
-| Sistemas operativos (Windows, Linux, macOS) | Intermedio |
-| Planeación y seguimiento de proyectos | Avanzado |
-| Organización de estrategias financieras| Intermedio |
-| Optimización de procesos logísticos    | Intermedio |
-| Gestión de inventario                  | Intermedio |
-| Análisis de datos con Python (pandas, numpy, matplotlib, seaborn) | Avanzado |
-| Automatización de reportes             | Avanzado |
-| SQL                                   | Avanzado |
-| Procesos ETL                          | Intermedio |
-| Microsoft Excel avanzado               | Avanzado   |
-| Power BI y Tableau                    | Intermedio |
-| Generación de reportes analíticos      | Intermedio |
-| Gestión de proyectos                   | Intermedio |
+Me considero un **Arquitecto de Software** en formación con sólidas bases como **Analista Desarrollador**. Mi enfoque se centra en:
+
+- **Diseño de Arquitecturas Escalables**: Microservicios, APIs RESTful, y sistemas distribuidos
+- **Análisis y Desarrollo**: Desde la concepción hasta la implementación de soluciones tecnológicas
+- **Optimización de Procesos**: Automatización, análisis de datos y mejora continua
+- **Gestión Técnica**: Liderazgo en proyectos multidisciplinarios y coordinación de equipos
 
 ---
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<h2>🛠️ / stack tecnológico /</h2>
 
-<h2> / conocimientos y aptitudes / </h2>
+### 🔹 **Backend & Arquitectura**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-- **Conocimiento del sector**  
-- **Desarrollo de software**  
-- **Gestión de relaciones con clientes (CRM)**  
-- **Administración**  
-- **Arquitectura informática**  
-- **Análisis de datos**  
+### 🔹 **Frontend & UX**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+### 🔹 **Bases de Datos & ETL**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 🔹 **Análisis de Datos & BI**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### 🔹 **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### 🔹 **Herramientas & Sistemas**
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
-<h2> / contacto / </h2>
+
+<h2>📊 / competencias técnicas /</h2>
+
+### **Arquitectura & Diseño**
+- Diseño de arquitecturas de microservicios y sistemas distribuidos
+- Patrones de diseño MVC y principios SOLID
+- APIs RESTful, JSON, XML y autenticación JWT
+- Optimización de rendimiento y escalabilidad
+- Componentes React reutilizables y arquitectura modular
+
+### **Análisis & Desarrollo**
+- Análisis de requerimientos y diseño de soluciones
+- Desarrollo full-stack con JavaScript ES6+, TypeScript y Python
+- Automatización de procesos con Python, Excel y VBA
+- Implementación de procesos ETL y data pipelines
+- Machine Learning con Scikit-learn y análisis predictivo
+
+### **Gestión & Liderazgo**
+- Metodologías ágiles: Scrum, Kanban
+- Gestión de proyectos técnicos y control de presupuesto
+- Coordinación de equipos multidisciplinarios
+- Análisis de KPIs, costos y métricas de rendimiento
+- Optimización de procesos logísticos y gestión de inventario
+
+### **Seguridad & Infraestructura**
+- Mejores prácticas OWASP y APIs seguras
+- Protocolos TCP/IP, HTTP/HTTPS
+- Validación de datos y seguridad informática
+- Administración de servicios en Windows Server y Linux
+- Infraestructura como código con Terraform
+
+---
+
+<h2>📈 / nivel de expertise /</h2>
+
+| Área de Competencia                    | Nivel       |
+|----------------------------------------|-------------|
+| **Backend: Python (Django, Flask)**    | Avanzado    |
+| **Backend: Java**                      | Avanzado    |
+| **Backend: Node.js**                   | Avanzado    |
+| **Frontend: React.js, TypeScript**     | Intermedio  |
+| **Frontend: HTML5, CSS3, JavaScript**  | Intermedio  |
+| **Bases de Datos: SQL, MySQL, PostgreSQL** | Avanzado |
+| **Bases de Datos: MongoDB, NoSQL**     | Avanzado    |
+| **Análisis de Datos: Pandas, NumPy**   | Avanzado    |
+| **Análisis de Datos: Scikit-learn**    | Intermedio  |
+| **Business Intelligence: Power BI**    | Avanzado    |
+| **Business Intelligence: Tableau**     | Avanzado    |
+| **Microsoft Excel & VBA**              | Avanzado    |
+| **Gestión de Proyectos**               | Avanzado    |
+| **Control de Versiones: Git**          | Avanzado    |
+| **DevOps: Docker, CI/CD**              | Intermedio  |
+| **Cloud: AWS básico**                  | Intermedio  |
+| **Arquitectura de Software**           | Intermedio  |
+| **Seguridad Informática**              | Intermedio  |
+
+---
+
+<h2>🎯 / proyectos destacados /</h2>
+
+### **Leanmaker (2025) - Desarrollador Full Stack**
+- **Plataforma Integral de Gestión Académica**: Diseño, desarrollo e implementación de sistema completo para instituciones educativas
+- **Arquitectura Modular**: Django (Python) en backend y React (TypeScript) en frontend
+- **Escalabilidad y Mantenimiento**: Implementación de patrones de diseño y componentes reutilizables
+
+### **Empresa de Construcciones Viales (2024-2025) - Desarrollador, Analista de Datos y Encargado de Logística**
+- **Herramientas Internas**: Desarrollo de aplicaciones web con HTML, CSS, JavaScript y React
+- **Automatización de Procesos**: Scripts Python, Excel y SQL para optimización operacional
+- **Bases de Datos**: Diseño y administración de MySQL, PostgreSQL y SQL Server
+- **Business Intelligence**: Reportes analíticos en Power BI y Tableau para toma de decisiones
+- **Gestión Logística**: Control de inventario, recursos y coordinación de equipos técnicos
+- **DevOps**: Control de versiones con Git y despliegue en entornos Dockerizados
+
+---
+
+<h2>🔍 / áreas de especialización /</h2>
+
+### **Arquitectura de Software**
+- Diseño de sistemas escalables y mantenibles
+- Patrones arquitectónicos MVC y mejores prácticas
+- Integración de sistemas y APIs RESTful
+- Seguridad OWASP y performance optimization
+- Componentes React reutilizables y arquitectura modular
+
+### **Análisis de Datos & Business Intelligence**
+- Data mining y business intelligence avanzado
+- Machine Learning aplicado con Scikit-learn
+- Visualización de datos con Power BI, Tableau y Plotly
+- Automatización de procesos analíticos y ETL
+- Generación automática de reportes y dashboards
+
+### **Desarrollo Full-Stack**
+- Aplicaciones web modernas con React/TypeScript
+- Backend robusto con Django, Flask, Node.js y Java
+- Bases de datos relacionales (MySQL, PostgreSQL, SQL Server) y NoSQL (MongoDB)
+- DevOps con Docker, CI/CD y despliegue automatizado
+- APIs seguras con autenticación JWT y validación de datos
+
+### **Gestión & Optimización**
+- Metodologías ágiles (Scrum, Kanban) y gestión de proyectos
+- Control de presupuesto, análisis de costos y KPIs
+- Optimización de procesos logísticos y gestión de inventario
+- Coordinación de equipos técnicos y documentación
+- Administración de servicios en Windows Server y Linux
+
+---
+
+<h2>📚 / formación académica /</h2>
+
+### **Educación Superior**
+- **Ingeniero en Informática** - INACAP, Santiago Centro (Egresado 2025)
+- **Técnico de Nivel Superior Analista Programador** - INACAP, Santiago Centro (Egresado 2024)
+
+### **Especializaciones INACAP (2024)**
+- **Desarrollador Full Stack**
+- **Arquitectura Cloud**
+- **Diseño y Gestión de Base de Datos**
+
+### **Formación Continua**
+- **Arquitectura de Software**: Patrones de diseño, microservicios, cloud computing
+- **Inteligencia Artificial**: Machine Learning, análisis predictivo con Scikit-learn
+- **DevOps**: Docker, Kubernetes, CI/CD, AWS, Terraform
+- **Gestión de Proyectos**: Metodologías ágiles, Scrum, Kanban
+- **Seguridad Informática**: Mejores prácticas OWASP, APIs seguras
+
+---
+
+<h2>📬 / contacto profesional /</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-alburqueque-394018308/)
 
+---
+
+<h2>💼 / perfil profesional /</h2>
+
+Profesional proactivo, adaptable y orientado a resultados, con sólida experiencia en desarrollo de software, análisis de datos y automatización de procesos. Comprometido con la mejora continua, la resolución eficiente de problemas y la adquisición de nuevos conocimientos técnicos. Capaz de liderar y ejecutar proyectos informáticos de principio a fin, aportando valor a los objetivos de la organización.
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400" />
+</div> 
