@@ -113,6 +113,23 @@ Me considero un **Arquitecto de Software** en formación con sólidas bases como
 - Administración de servicios en Windows Server y Linux
 - Infraestructura como código con Terraform
 
+### **Análisis de Datos & Business Intelligence**
+- Conocimientos en SQL (avanzado)
+- Familiaridad con procesos ETL (intermedio)
+- Dominio avanzado de Microsoft Excel (avanzado)
+- Automatización de reportes (avanzado)
+- Análisis de datos con Python (pandas, numpy, matplotlib, seaborn) (avanzado)
+- Generación de reportes analíticos (intermedio)
+- Power BI y Tableau (intermedio)
+- Manejo de Office 365 (Excel, Word, PowerPoint, Outlook) (avanzado)
+
+### **Gestión & Optimización de Procesos**
+- Gestión de proyectos (avanzado)
+- Planeación y seguimiento de proyectos multidisciplinarios (avanzado)
+- Optimización de procesos logísticos (intermedio)
+- Gestión de inventario (intermedio)
+- Organización de estrategias financieras y control de presupuesto (intermedio)
+
 ---
 
 <h2>📈 / nivel de expertise /</h2>
@@ -132,6 +149,9 @@ Me considero un **Arquitecto de Software** en formación con sólidas bases como
 | **Business Intelligence: Tableau**     | Avanzado    |
 | **Microsoft Excel & VBA**              | Avanzado    |
 | **Gestión de Proyectos**               | Avanzado    |
+| **Planeación de Proyectos**            | Avanzado    |
+| **Planes de Calidad**                  | Avanzado    |
+| **Pruebas de Estrés**                  | Intermedio  |
 | **Control de Versiones: Git**          | Avanzado    |
 | **DevOps: Docker, CI/CD**              | Intermedio  |
 | **Cloud: AWS básico**                  | Intermedio  |
