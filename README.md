@@ -8,15 +8,55 @@
 
 <h2>👨‍💻 / sobre mí /</h2>
 
+<table>
+<tr>
+<td width="70%">
+
 - 🎯 **Arquitecto de Software** y **Analista Desarrollador** enfocado en soluciones escalables
 - 🔒 Experiencia en proyectos empresariales y **repositorios privados**
 - 📚 **Ingeniero en Informática** con enfoque en **Arquitectura de Sistemas**
 - 🌍 Apasionado por diseñar e implementar soluciones que generen impacto real
 - 🚀 Especializado en **Análisis de Datos**, **Desarrollo Full-Stack** y **Optimización de Procesos**
 
+</td>
+<td width="30%" align="center">
+
+<img src="https://raw.githubusercontent.com/AlburquequeDiego/AlburquequeDiego/main/lol.jpeg" alt="Sobre Mí" width="200" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2>🎮 / hobbies & pasiones /</h2>
+
+<table>
+<tr>
+<td width="70%">
+
+- 🎮 **Videojuegos**: Apasionado gamer que disfruta explorar nuevos mundos virtuales
+- 📚 **Manga & Anime**: Lector ávido de manga y fanático del anime japonés
+- 🦸‍♂️ **Coleccionista**: Fanático de figuras de Marvel, DC, anime y cómics
+- 📖 **Cómics**: Devoto lector y coleccionista de cómics de superhéroes
+- 💻 **Informática**: Apasionado por la tecnología y la innovación digital
+
+</td>
+<td width="30%" align="center">
+
+<img src="https://raw.githubusercontent.com/AlburquequeDiego/AlburquequeDiego/main/descarga%20(1).jpeg" alt="Hobbies" width="200" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 <h2>🏗️ / perfil profesional /</h2>
+
+<table>
+<tr>
+<td width="70%">
 
 Me considero un **Arquitecto de Software** en formación con sólidas bases como **Analista Desarrollador**. Mi enfoque se centra en:
 
@@ -25,9 +65,22 @@ Me considero un **Arquitecto de Software** en formación con sólidas bases como
 - **Optimización de Procesos**: Automatización, análisis de datos y mejora continua
 - **Gestión Técnica**: Liderazgo en proyectos multidisciplinarios y coordinación de equipos
 
+</td>
+<td width="30%" align="center">
+
+<img src="https://raw.githubusercontent.com/AlburquequeDiego/AlburquequeDiego/main/descarga.jpeg" alt="Perfil Profesional" width="200" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 <h2>🛠️ / stack tecnológico /</h2>
+
+<table>
+<tr>
+<td width="70%">
 
 ### 🔹 **Backend & Arquitectura**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -81,9 +134,22 @@ Me considero un **Arquitecto de Software** en formación con sólidas bases como
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+</td>
+<td width="30%" align="center">
+
+<img src="https://raw.githubusercontent.com/AlburquequeDiego/AlburquequeDiego/main/descarga.gif" alt="Stack Tecnológico" width="200" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 <h2>📊 / competencias técnicas /</h2>
+
+<table>
+<tr>
+<td width="70%">
 
 ### **Arquitectura & Diseño**
 - Diseño de arquitecturas de microservicios y sistemas distribuidos
@@ -130,9 +196,22 @@ Me considero un **Arquitecto de Software** en formación con sólidas bases como
 - Gestión de inventario (intermedio)
 - Organización de estrategias financieras y control de presupuesto (intermedio)
 
+</td>
+<td width="30%" align="center">
+
+<img src="https://raw.githubusercontent.com/AlburquequeDiego/AlburquequeDiego/main/Jeff%20the%20Land%20Shark.jpeg" alt="Competencias Técnicas" width="200" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 <h2>📈 / nivel de expertise /</h2>
+
+<table>
+<tr>
+<td width="70%">
 
 | Área de Competencia                    | Nivel       |
 |----------------------------------------|-------------|
@@ -157,6 +236,15 @@ Me considero un **Arquitecto de Software** en formación con sólidas bases como
 | **Cloud: AWS básico**                  | Intermedio  |
 | **Arquitectura de Software**           | Intermedio  |
 | **Seguridad Informática**              | Intermedio  |
+
+</td>
+<td width="30%" align="center">
+
+<img src="https://raw.githubusercontent.com/AlburquequeDiego/AlburquequeDiego/main/Mordekaiser%20standing%20cat%20pfp.jpeg" alt="Nivel de Expertise" width="200" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -247,4 +335,4 @@ Profesional proactivo, adaptable y orientado a resultados, con sólida experienc
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400" />
-</div> 
+</div>
