@@ -21,7 +21,7 @@
 </td>
 <td width="30%" align="center">
 
-<img src="https://github.com/AlburquequeDiego/AlburquequeDiego/blob/main/lol.jpeg?raw=true" alt="Sobre Mí" width="200" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"/>
+<img src="https://raw.githubusercontent.com/AlburquequeDiego/AlburquequeDiego/main/lol.jpeg" alt="Sobre Mí" width="200" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"/>
 
 </td>
 </tr>
@@ -44,7 +44,7 @@
 </td>
 <td width="30%" align="center">
 
-<img src="https://github.com/AlburquequeDiego/AlburquequeDiego/blob/main/descarga%20(1).jpeg?raw=true" alt="Hobbies" width="200" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"/>
+<img src="https://raw.githubusercontent.com/AlburquequeDiego/AlburquequeDiego/main/descarga%20(1).jpeg" alt="Hobbies" width="200" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"/>
 
 </td>
 </tr>
@@ -68,7 +68,7 @@ Me considero un **Arquitecto de Software** en formación con sólidas bases como
 </td>
 <td width="30%" align="center">
 
-<img src="https://github.com/AlburquequeDiego/AlburquequeDiego/blob/main/descarga.jpeg?raw=true" alt="Perfil Profesional" width="200" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"/>
+<img src="https://raw.githubusercontent.com/AlburquequeDiego/AlburquequeDiego/main/descarga.jpeg" alt="Perfil Profesional" width="200" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"/>
 
 </td>
 </tr>
@@ -137,7 +137,7 @@ Me considero un **Arquitecto de Software** en formación con sólidas bases como
 </td>
 <td width="30%" align="center">
 
-<img src="https://github.com/AlburquequeDiego/AlburquequeDiego/blob/main/descarga.gif?raw=true" alt="Stack Tecnológico" width="200" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"/>
+<img src="https://raw.githubusercontent.com/AlburquequeDiego/AlburquequeDiego/main/descarga.gif" alt="Stack Tecnológico" width="200" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"/>
 
 </td>
 </tr>
@@ -199,7 +199,7 @@ Me considero un **Arquitecto de Software** en formación con sólidas bases como
 </td>
 <td width="30%" align="center">
 
-<img src="https://github.com/AlburquequeDiego/AlburquequeDiego/blob/main/Jeff%20the%20Land%20Shark.jpeg?raw=true" alt="Competencias Técnicas" width="200" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"/>
+<img src="https://raw.githubusercontent.com/AlburquequeDiego/AlburquequeDiego/main/Jeff%20the%20Land%20Shark.jpeg" alt="Competencias Técnicas" width="200" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"/>
 
 </td>
 </tr>
@@ -240,7 +240,7 @@ Me considero un **Arquitecto de Software** en formación con sólidas bases como
 </td>
 <td width="30%" align="center">
 
-<img src="https://github.com/AlburquequeDiego/AlburquequeDiego/blob/main/Mordekaiser%20standing%20cat%20pfp.jpeg?raw=true" alt="Nivel de Expertise" width="200" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"/>
+<img src="https://raw.githubusercontent.com/AlburquequeDiego/AlburquequeDiego/main/Mordekaiser%20standing%20cat%20pfp.jpeg" alt="Nivel de Expertise" width="200" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"/>
 
 </td>
 </tr>
