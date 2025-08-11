@@ -250,6 +250,10 @@ Me considero un **Arquitecto de Software** en formación con sólidas bases como
 
 <h2>🎯 / proyectos destacados /</h2>
 
+<table>
+<tr>
+<td width="70%">
+
 ### **Leanmaker (2025) - Desarrollador Full Stack**
 - **Plataforma Integral de Gestión Académica**: Diseño, desarrollo e implementación de sistema completo para instituciones educativas
 - **Arquitectura Modular**: Django (Python) en backend y React (TypeScript) en frontend
@@ -263,9 +267,22 @@ Me considero un **Arquitecto de Software** en formación con sólidas bases como
 - **Gestión Logística**: Control de inventario, recursos y coordinación de equipos técnicos
 - **DevOps**: Control de versiones con Git y despliegue en entornos Dockerizados
 
+</td>
+<td width="30%" align="center">
+
+<img src="https://github.com/AlburquequeDiego/AlburquequeDiego/blob/main/proyectos%20destacados.jpeg?raw=true" alt="Proyectos Destacados" width="200"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 <h2>🔍 / áreas de especialización /</h2>
+
+<table>
+<tr>
+<td width="70%">
 
 ### **Arquitectura de Software**
 - Diseño de sistemas escalables y mantenibles
@@ -295,9 +312,22 @@ Me considero un **Arquitecto de Software** en formación con sólidas bases como
 - Coordinación de equipos técnicos y documentación
 - Administración de servicios en Windows Server y Linux
 
+</td>
+<td width="30%" align="center">
+
+<img src="https://github.com/AlburquequeDiego/AlburquequeDiego/blob/main/áreas%20de%20especialización.jpeg?raw=true" alt="Áreas de Especialización" width="200"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 <h2>📚 / formación académica /</h2>
+
+<table>
+<tr>
+<td width="70%">
 
 ### **Educación Superior**
 - **Ingeniero en Informática** - INACAP, Santiago Centro (Graduado 2025)
@@ -318,6 +348,15 @@ Me considero un **Arquitecto de Software** en formación con sólidas bases como
 - **DevOps**: Docker, Kubernetes, CI/CD, AWS, Terraform
 - **Gestión de Proyectos**: Metodologías ágiles, Scrum, Kanban
 - **Seguridad Informática**: Mejores prácticas OWASP, APIs seguras
+
+</td>
+<td width="30%" align="center">
+
+<img src="https://github.com/AlburquequeDiego/AlburquequeDiego/blob/main/formación%20académica.jpeg?raw=true" alt="Formación Académica" width="200"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
